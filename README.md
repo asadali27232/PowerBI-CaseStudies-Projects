@@ -21,8 +21,8 @@ I’ll use Power Query to investigate and clean the data to find insights, lever
 ### [Case Study: Analyzing Job Market Data in Power BI](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/tree/main/Databel-Churn-Analysis)
 
 <p align="left">
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Analyzing-Job-Market-Data/Images/0001.jpg" alt="Alt Text 1" width="200" />
   <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Analyzing-Job-Market-Data/Images/0002.jpg" alt="Alt Text 1" width="200" />
   <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Analyzing-Job-Market-Data/Images/0003.jpg" alt="Alt Text 1" width="200" />
   <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Analyzing-Job-Market-Data/Images/0004.jpg" alt="Alt Text 1" width="200" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Analyzing-Job-Market-Data/Images/0005.jpg" alt="Alt Text 1" width="200" />
 </p>
