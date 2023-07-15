@@ -12,10 +12,10 @@ I’ll use Power Query to investigate and clean the data to find insights, lever
 ### [Case Study: Analyzing Customer Churn in Power BI](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/tree/main/Databel-Churn-Analysis)
 
 <p align="left">
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0001.jpg" alt="Alt Text 1" width="250" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0002.jpg" alt="Alt Text 2" width="250" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0003.jpg" alt="Alt Text 3" width="250" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0004.jpg" alt="Alt Text 4" width="250" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0001.jpg" alt="Alt Text 1" width="25%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0002.jpg" alt="Alt Text 2" width="25%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0003.jpg" alt="Alt Text 3" width="25%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0004.jpg" alt="Alt Text 4" width="25%" />
 </p>
 
 ### [Case Study: Analyzing Job Market Data in Power BI](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/tree/main/Databel-Churn-Analysis)
