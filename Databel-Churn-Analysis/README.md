@@ -7,4 +7,9 @@ Are you ready to apply your Power BI skills to a real-world dataset? For subscri
 
 ## Project Insights
 
-![]()
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0000.jpg)
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0001.jpg)
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0002.jpg)
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0003.jpg)
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0004.jpg)
+![](https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0005.jpg)
